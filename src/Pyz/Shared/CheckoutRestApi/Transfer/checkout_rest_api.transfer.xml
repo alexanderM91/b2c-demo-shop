@@ -5,6 +5,7 @@
         <property name="pyzDummyPayment" type="DummyPayment"/>
         <property name="pyzDummyPaymentInvoice" type="DummyPayment"/>
         <property name="pyzDummyPaymentCreditCard" type="DummyPayment"/>
+        <property name="testDummyPaymentCreditCard" type="DummyPayment"/>
     </transfer>
 
 </transfers>
